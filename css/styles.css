@@ -501,7 +501,7 @@ footer .logo h1 {
 }
 
 /* tablet */
-@media (768px <= width <= 1024px) {
+@media (min-width: 768px) and (max-width: 1024px) {
 
   .wrapper {
     width: 100%;
