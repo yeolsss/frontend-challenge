@@ -555,7 +555,7 @@ footer .logo h1 {
 }
 
 /*mobile*/
-@media ( width <= 320px) {
+@media ( width <= 390px) {
 
   .main_grid {
     grid-template-columns: repeat(1, 1fr);
